@@ -2,7 +2,7 @@ from pypresence import Presence
 import time
 import datetime
 
-client_id = "YOUR_APPLICATION_ID"  # replace this
+client_id = "1484585106348838912"  # replace this
 
 start_time = int(datetime.datetime(2025, 5, 12, 0, 0, 0).timestamp())
 
